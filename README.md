@@ -1,4 +1,4 @@
-# BusCoin
+# Ticket Exchange
 
 Ejemplo de un DEX con Uniswap.
 
